@@ -1,0 +1,14 @@
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.exe
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.deps.json
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.runtimeconfig.json
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.runtimeconfig.dev.json
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.dll
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.pdb
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.csproj.AssemblyReference.cache
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.AssemblyInfoInputs.cache
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.AssemblyInfo.cs
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.csproj.CoreCompileInputs.cache
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.dll
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.pdb
+C:\Users\Naufal Aji Wibowo\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.genruntimeconfig.cache

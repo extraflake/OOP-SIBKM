@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIBKMNet", "SIBKMNet\SIBKMNet.csproj", "{D15B678F-D416-4F71-94C7-1CE73CA375CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15B678F-D416-4F71-94C7-1CE73CA375CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15B678F-D416-4F71-94C7-1CE73CA375CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15B678F-D416-4F71-94C7-1CE73CA375CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15B678F-D416-4F71-94C7-1CE73CA375CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29621DDE-7077-4D76-957C-9C9C8AC52AA0}
+	EndGlobalSection
+EndGlobal
